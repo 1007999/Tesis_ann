@@ -4557,7 +4557,7 @@ tbody.collapse.in {
 }
 
 .navbar-inverse {
-    background-color: #1f3f5e;
+    background-color: #003A69;
     border-color: #122538
 }
 
@@ -8115,12 +8115,12 @@ body {
 
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
     border-color: #290658 !important;
-    background: linear-gradient(to bottom, #003A69 0%, #0D0D0D 100%) !important;
+    background: linear-gradient(to bottom, #003A69  0%, #003A69 100%) !important;
 }
 
 .trail-wrapper {
     background: linear-gradient(#fdfdfd, #f0f0f0) !important;
-    border-bottom: 2px solid #5E467D !important;
+    border-bottom: 2px solid #1f3f5e !important;
 }
 
 header .navbar-default {
@@ -8183,12 +8183,12 @@ footer {
 }
 
 .btn-primary {
-    background-color: #290658 !important;
-    border-color: #c40000 !important;
+    background-color: #1f3f5e !important;
+    border-color: #1f3f5e !important;
 }
 
 footer .row>div {
-    border-top: 2px solid #5E467D !important;
+    border-top: 2px solid #1f3f5e !important;
     margin-top: 10px !important;
 }
 
